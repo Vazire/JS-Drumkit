@@ -1,2 +1,2 @@
 # JS-Drumkit
-Plays sounds corresponding to some particular keystrokes
+Plays sound corresponding to some particular keystrokes
